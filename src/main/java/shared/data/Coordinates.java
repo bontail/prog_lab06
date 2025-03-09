@@ -1,6 +1,6 @@
 package shared.data;
 import lombok.*;
-import shared.validator.Check;
+import shared.reflection.Check;
 
 
 @Data

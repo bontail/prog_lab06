@@ -2,8 +2,8 @@ package server.commands;
 
 import lombok.AllArgsConstructor;
 import server.ServerPersonManager;
-import shared.validator.InvalidField;
-import shared.validator.Validator;
+import shared.reflection.InvalidField;
+import shared.reflection.Validator;
 import shared.data.Person;
 import shared.requests.Request;
 import shared.requests.RequestType;

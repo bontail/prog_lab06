@@ -3,7 +3,7 @@ package shared.responses;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import shared.validator.InvalidField;
+import shared.reflection.InvalidField;
 
 @Getter
 @NoArgsConstructor

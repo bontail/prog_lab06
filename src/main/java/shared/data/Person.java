@@ -12,7 +12,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-import shared.validator.Check;
+import shared.reflection.Check;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;

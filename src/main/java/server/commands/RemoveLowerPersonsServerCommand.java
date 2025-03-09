@@ -2,7 +2,7 @@ package server.commands;
 
 import lombok.AllArgsConstructor;
 import server.ServerPersonManager;
-import shared.validator.DataCreator;
+import shared.reflection.DataCreator;
 import shared.data.Person;
 import shared.requests.RemoveLowerPersonsRequest;
 import shared.requests.Request;
