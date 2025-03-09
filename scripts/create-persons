@@ -1,0 +1,3 @@
+execute_script scripts/create-ilya
+execute_script scripts/create-misha
+execute_script scripts/create-vasya

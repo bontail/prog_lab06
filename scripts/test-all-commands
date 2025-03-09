@@ -1,0 +1,13 @@
+clear
+execute_script scripts/create-persons
+execute_script scripts/create-ilya-ifmax
+count_by_height 180
+filter_contains_name ilya
+filter_greater_than_weight 100
+help
+history
+info
+remove_by_id 2
+show
+execute_script scripts/update-first
+execute_script scripts/create-ilya
